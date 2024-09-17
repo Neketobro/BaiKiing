@@ -6,3 +6,8 @@ Baikiing - це інноваційний проект, присвячений с
 Інтуїтивно зрозумілий інтерфейс: зручний та простий у використанні.
 Можливість залишати відгуки та коментарі: обмін досвідом та ідеями з іншими користувачами.
 Інформаційні статті: корисні поради та цікаві факти про випічку.
+
+
+![Screenshot](https://github.com/Neketobro/BaiKiing/blob/master/Screenshot1.png)
+
+![Screenshot](https://github.com/Neketobro/BaiKiing/blob/master/Screenshot2.png)
